@@ -8,7 +8,7 @@ The resultant dictionary can be used in web fuzzing.
 Usage
 -----
 
-Usage: ./robotstxt.sh <domains file>
+Usage: ./robotstxt.sh &lt;domains file&gt;
 
 Output
 ------
